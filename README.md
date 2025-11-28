@@ -60,4 +60,4 @@ INSERT INTO Movies VALUES
 
 # Project File Link:
 
-
+Link:  https://github.com/Sharon-Rose-Simon/SQL-Project---Movies-Database-Queries---Sharon 
