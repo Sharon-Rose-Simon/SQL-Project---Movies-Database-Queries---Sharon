@@ -23,4 +23,8 @@ INSERT INTO Movies VALUES
 (5, 'Beauty and the Beast', 'Gary Trousdale and Kirk Wise', 2017, 129),
 (6, 'Monsters, Inc.', 'Pete Docter', 2001, 92),
 (7, 'Finding Nemo', 'Andrew Stanton', 2003, 107),
-(8, 'The Incredibles', 'Brad Bird', 2004, 116); 
+(8, 'The Incredibles', 'Brad Bird', 2004, 116);
+
+# Screenshots 
+
+<img width="1387" height="923" alt="image" src="https://github.com/user-attachments/assets/50e43955-b519-4272-baf1-b824d81c5eb6" />
